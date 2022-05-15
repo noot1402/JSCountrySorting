@@ -8,7 +8,7 @@ const watcher = async () => {
 };
 
 const start = async () => {
-    myProcess = spawn('node', ['jsonmanaging.js'], {stdio: 'inherit'});
+    myProcess = spawn('node', ['score.js'], {stdio: 'inherit'});
 };
 console.log('test');
 const stop = async () => {
