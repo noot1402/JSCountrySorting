@@ -9,10 +9,15 @@ This code compiles many countries and their attributes in json files, and allows
 There is also an option to pick your 'ideal country' based on settings
 # NPM INSTALL
 npm install ramda
+
 npm install country-json
+
 npm i table
+
 npm i -g npm
+
 npm i --save lodash
+
 npm i prompt-sync
 
 # Authors
